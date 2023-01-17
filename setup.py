@@ -46,7 +46,7 @@ setup(
         "senaite.core.spotlight>=1.0.4",
         "senaite.impress>=1.2.5",
         "senaite.jsonapi>=1.2.4",
-        "Plone>=4.3.20",
+        "Plone>=4.3.10",
         "Plone<5",
         "setuptools",
     ],
